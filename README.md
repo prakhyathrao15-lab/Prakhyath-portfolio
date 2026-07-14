@@ -1,2 +1,2 @@
 # Prakhyath-portfolio
-Personel Portfolio  built with the help of HTML and CSS 
+Personal Portfolio showcasing my education,projects,interests and contact id .Built with the help of HTML and CSS. 
